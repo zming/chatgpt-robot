@@ -51,7 +51,7 @@ async def message(request):
 	'chatbotCorpId': 'ding73a215893ab8c286a1320dcb25e91351',
 	'chatbotUserId': '$:LWCP_v1:$YIyUfX+rtLu1UceiXVq+xdMT3PhXJv2m',
 	'msgId': 'msg4nRTbhem8Di4bPhAjPUahA==',
-	'senderNick': '覃志明',
+	'senderNick': 'xxx',
 	'isAdmin': True,
 	'senderStaffId': 'manager7045',
 	'sessionWebhookExpiredTime': 1689777797160,

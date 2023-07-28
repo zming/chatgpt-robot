@@ -5,7 +5,6 @@ import json
 from sanic.log import logger
 from utils.conns import redis_cli
 
-OPENAI_KEY = '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'
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", OPENAI_KEY)
 
 MODEL = "gpt-3.5-turbo-0301"
